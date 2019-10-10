@@ -1,3 +1,6 @@
+**Desenvolvido por**: Pedro Rafael D. Marinho </br>
+**E-mail**: pedro.rafael.marinho@gmail.com
+
 # hcci: Interval estimation for the parameters of linear models with heteroskedasticity (Wild Bootstrap)
 
 [![last](https://www.r-pkg.org/badges/last-release/hcci)](https://CRAN.R-project.org/package=hcci)
