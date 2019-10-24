@@ -1,5 +1,6 @@
 **Developed by**: Pedro Rafael D. Marinho </br>
 **E-mail**: pedro.rafael.marinho@gmail.com
+**GitHub**: https://github.com/prdm0/AdequacyModel
 
 # hcci: Interval estimation for the parameters of linear models with heteroskedasticity (Wild Bootstrap)
 
