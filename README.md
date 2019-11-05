@@ -1,6 +1,6 @@
 **Developed by**: Pedro Rafael D. Marinho </br>
 **E-mail**: pedro.rafael.marinho@gmail.com </br>
-**GitHub**: https://github.com/prdm0/hcci
+**GitHub**: https://github.com/prdm0/hcci </br>
 **See package website**: https://prdm0.github.io/hcci/.
 
 # hcci: Interval estimation for the parameters of linear models with heteroskedasticity (Wild Bootstrap)
