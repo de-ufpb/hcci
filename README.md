@@ -1,4 +1,4 @@
-**Developed by**: Pedro Rafael D. Marinho </br>
+**Developed by**: Prof. Pedro Rafael D. Marinho </br>
 **E-mail**: pedro.rafael.marinho@gmail.com </br>
 **GitHub**: https://github.com/prdm0/hcci </br>
 **See package website**: https://prdm0.github.io/hcci/.
